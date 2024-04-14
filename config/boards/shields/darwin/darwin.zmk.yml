@@ -1,0 +1,11 @@
+file_format: "1"
+id: darwin
+name: Darwin
+type: shield
+url: https://github.com/T-lef/zmk-darwin/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - darwin_left
+  - darwin_right
